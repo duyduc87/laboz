@@ -1,0 +1,2 @@
+# laboz
+wordpress website
